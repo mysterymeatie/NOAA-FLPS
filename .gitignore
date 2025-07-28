@@ -1,2 +1,9 @@
-abiding-root-460420-d9-20691e8fd907.json
-application_default_credentials - Copy.json 
+.cursor
+.env
+.venv
+.netrc 
+data/raw/MODIS_NDVI_250m
+data/raw/NOAA_HRRR
+data/raw/CALFIRE_PERIMETERS
+data/processed/geotiff_ndvi
+data/processed/geotiff_evi

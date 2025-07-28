@@ -1,60 +1,13 @@
-# NOAA Fire and Life Safety Prediction System (FLPS)
+This repository is dedicated to my overarching project during my internship at NOAA. The following are details about my project.
 
-## Project Overview
+Overview:
+- I have been assigned the task of constructing a model to predict and evaluate wildfire risk in the localized region of Southern California. This model is subject to test metrics and standards, and will be accompanied by a deliverable and presentation.
+- All operations will be revolved around GCP.
+- It has been consistently established that, in the field of wildfire science, data quality and quantity far outranks model architecture in importance and impact on metrics.
 
-The NOAA Fire and Life Safety Prediction System (FLPS) is a machine learning-based wildfire risk prediction model designed specifically for Southern California. This project aims to develop a comprehensive evaluation framework for wildfire risk assessment within an 8-week development timeline.
+Deliverables:
+1. A package of 30-50 datasets in varying degrees of granularity, modality, and spatial and temporal coverage.
+2. A meta-learner model combined from the outputs of various base models, each utilized in appropriate situations (example: CNNs for satellite imagery, XGBoost for tabular, etc).
 
-## Objectives
-
-- **Primary Goal**: Construct and validate a predictive model for wildfire risk evaluation in Southern California
-- **Timeline**: 8-week development cycle
-- **Deliverables**: Production-ready model, comprehensive evaluation metrics, and executive presentation
-- **Testing Standards**: Model performance will be evaluated against established test metrics and industry standards
-
-## Geographic Focus
-
-**Target Region**: Southern California
-
-Southern California was selected as the primary study area due to several key factors:
-
-- **Data Availability**: Extensive recent wildfire event data providing robust training and validation datasets
-- **Localized Climate Factors**: Unique meteorological conditions including Santa Ana wind patterns that require specialized modeling approaches
-- **High-Risk Environment**: Region's susceptibility to wildfire events makes it an ideal testbed for prediction model development
-
-## Technical Infrastructure
-
-**Cloud Platform**: Google Cloud Platform (GCP)
-- Leveraging GCP's machine learning and data processing capabilities
-- Cost-effective development environment utilizing available credits
-
-## Development Principles
-
-### Reproducibility
-- All code, data pipelines, and model configurations are designed for full reproducibility
-- Standardized development environment setup and dependency management
-- Comprehensive documentation of all modeling decisions and methodologies
-
-### Security & Accessibility
-- Implementation follows security best practices with no embedded authentication credentials
-- Open-source approach ensuring long-term accessibility and maintainability
-- Structured for seamless knowledge transfer and continued development
-
-## Project Structure
-
-*[To be updated as development progresses]*
-
-## Getting Started
-
-*[Setup instructions to be added]*
-
-## Contributing
-
-*[Contribution guidelines to be established]*
-
-## License
-
-*[License information to be determined]*
-
----
-
-*This project is developed as part of a collaborative effort to advance wildfire prediction capabilities and enhance public safety through data-driven risk assessment.* 
+Requirements and Checkpoints:
+1. First, 
