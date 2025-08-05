@@ -2,8 +2,5 @@
 .env
 .venv
 .netrc 
-data/raw/MODIS_NDVI_250m
-data/raw/NOAA_HRRR
-data/raw/CALFIRE_PERIMETERS
-data/processed/geotiff_ndvi
-data/processed/geotiff_evi
+data/processed
+data/raw
