@@ -6,7 +6,7 @@ archives using a single, efficient FastHerbie object.
 You can find the documentation to the Herbie library here: https://herbie-data.readthedocs.io/en/latest/
 
 Key Features:
-- Downloads variables from 3 atmospheric levels (2m, 10m, surface) at once.
+- Downloads 8 variables from 3 atmospheric levels (2m, 10m, surface) at once, from entirety of CONUS.
 - Uses a single combined regex pattern with non-capturing groups for efficiency
   and to prevent warnings.
 - Downloads data in monthly batches to prevent hanging on problematic old files.
@@ -16,7 +16,7 @@ Key Features:
 - Allows specifying a custom date range, time, interval, and data source,
   or using a convenient default setting.
   
-When run with --use-defaults, the size of the downloaded data is ~32GB.
+When run with --use-defaults, the size of the downloaded data is ~32GB .
 """
 
 import os

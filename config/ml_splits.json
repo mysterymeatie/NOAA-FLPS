@@ -1,0 +1,18 @@
+{
+  "train": [
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2016.parquet",
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2017.parquet",
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2018.parquet",
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2019.parquet",
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2020.parquet",
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2021.parquet",
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2022.parquet"
+  ],
+  "val": [
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2023.parquet"
+  ],
+  "test": [
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2024.parquet",
+    "C:\\Users\\azrai\\Documents\\GitHub\\NOAA-FLPS\\data\\ml_datasets2\\features_2025.parquet"
+  ]
+}

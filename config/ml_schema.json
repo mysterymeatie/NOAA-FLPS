@@ -1,0 +1,40 @@
+{
+  "features": [
+    "BUI",
+    "DC",
+    "DMC",
+    "DPT",
+    "EVI",
+    "FFMC",
+    "FFWI_fosberg",
+    "FWI_canadian",
+    "ISI",
+    "NDVI",
+    "SPFH",
+    "TMP",
+    "UGRD",
+    "VGRD",
+    "WIND",
+    "days_since_sig_precip",
+    "dewpoint_celsius",
+    "elevation",
+    "precip_14d_sum_mm",
+    "precip_24h_mm",
+    "precip_30d_sum_mm",
+    "precip_7d_sum_mm",
+    "temp_celsius",
+    "temp_anom",
+    "temp_z",
+    "vpd",
+    "wind_direction"
+  ],
+  "target": "fire_present",
+  "exclude_cols": [
+    "fire_present",
+    "latitude",
+    "longitude",
+    "time",
+    "x",
+    "y"
+  ]
+}
